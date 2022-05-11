@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\bin\Debug\CISELNE_UKOL.exe.config
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\bin\Debug\CISELNE_UKOL.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\bin\Debug\CISELNE_UKOL.pdb
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\obj\Debug\CISELNE_UKOL.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\obj\Debug\CISELNE_UKOL.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\obj\Debug\CISELNE_UKOL.Form1.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\obj\Debug\CISELNE_UKOL.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\obj\Debug\CISELNE_UKOL.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\obj\Debug\CISELNE_UKOL.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\obj\Debug\CISELNE_UKOL.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\CISELNE_UKOL\obj\Debug\CISELNE_UKOL.pdb
